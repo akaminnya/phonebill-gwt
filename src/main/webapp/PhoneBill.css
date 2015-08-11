@@ -1,0 +1,52 @@
+body{
+    text-align: left;
+    font-family: verdana, sans-serif;
+}
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    color: #777777;
+    margin: 40px 0px 70px;
+    text-align: center;
+}
+
+.flexTable2 td,th{
+    padding: 2px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+
+.flexTable td{
+    border: 1px solid #BBBBBB;
+    padding: 2px;
+    text-align: center;
+}
+
+.VerticalPanels{
+   border: 1px solid black;
+
+}
+
+.Labels{
+    font-weight: bold;
+    font-size: 110%;
+
+}
+/*
+.format {
+    border: 0px none;
+    padding: 2px;
+    margin-left: 5px;
+    border-color: white;
+
+    outline: none;
+}*/
+
+.textBox {
+    border: 4px black;
+
+
+}
+
+
